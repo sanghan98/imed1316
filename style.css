@@ -1,0 +1,49 @@
+.logo-img {display: block;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    height: 15%;
+    
+}
+
+.menu-img {display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 12%;
+    height: 12%;}
+
+.drink {text-align: left;
+    display: inline-block;
+    padding-left: 15%;
+    color:#3a6351;
+    font-size: 20px;
+}
+
+.food {text-align: right;
+    display: inline-block;
+    padding-right: 15%;
+    color:#3a6351;
+    font-size: 20px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 5%;
+    width: 100%;
+    text-align: center;
+}
+.hourstable{
+    width: 100%;
+    text-align: center;
+
+}
+.starbucks {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
