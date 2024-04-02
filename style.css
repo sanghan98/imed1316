@@ -55,6 +55,7 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    flex-wrap: nowrap;
   }
   
   .flex-container > div {
@@ -68,7 +69,7 @@ body {
     text-align: center;
   }
 
-  .bottom-flex-containers > div {
+  .bottom-flex-containers {
     background-color: #f1f1f1;
     margin: 10px;
     padding: 20px;
